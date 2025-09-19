@@ -1,2 +1,3 @@
 # Kinetic-modeling-of-multiple-strain-artificial-consortium
-Matlab code
+The Matlab code of Kinetic modeling of multiple-strain artificial consortium to improve fengycin production of Bacillus subtilis.
+
